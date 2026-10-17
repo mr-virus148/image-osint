@@ -1,0 +1,11 @@
+# ============================================
+#  ANONFACE - Image OSINT Recon Tool v1.2
+#  Created by Mr.virus138 Team
+#  The Anonymous Tanzania Hackers
+#  Cooperation: Binno World Hacker
+# ============================================
+# Install with:  pip install -r requirements.txt
+
+Pillow>=10.0.0
+sherlock>=0.15.0
+maigret>=3.0
