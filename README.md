@@ -72,8 +72,8 @@ Python 3.8+ required.
 
 
 🚀 INSTALLATION
-git clone https://github.com/mr-virus148/-Image-OSINT-Recon-Tool.git
-cd image-Osint-Recon
+git https://github.com/mr-virus148/image-osint.git
+cd image-Osint
 chmod +x osintv1.py
 Then install the requirements above (System packages + Python packages).
 
